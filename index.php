@@ -28,10 +28,14 @@
 </head>
 
 <body>
-    <div class="login-container">
+    <div class="login-container"0
+    
+    
+    >
         <div class="card card-primary card-outline mb-4">
             <div class="card-header text-center">
-                <h3 class="card-title float-none">Inventory System</h3>
+                <img src="assets/img/gambar1.JPEG" width="80" height="80" alt="icon">
+                <h3 class="card-title float-none">PT ALIM RUGI</h3>
             </div>
             <form action="login.php" method="post">
                 <div class="card-body">

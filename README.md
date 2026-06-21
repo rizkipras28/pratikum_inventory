@@ -46,6 +46,7 @@ Gambar 1.6 TAMPILAN TAMBAH DATA
 
 LINK GitHub
 
+https://github.com/rizkipras28/pratikum_inventory.git
 
 
 
